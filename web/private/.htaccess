@@ -1,4 +1,5 @@
 AuthType Basic
 AuthName  "Restricted access "
-AuthUserFile  "/app/.htpasswd "
+AuthUserFile  "C:\Users\salmaz\OneDrive - Al-Madinah School\Documents\Git\userlogin\web\.htpasswd"
 Require valid-user
+
